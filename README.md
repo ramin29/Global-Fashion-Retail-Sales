@@ -1,7 +1,7 @@
 # Global-Fashion-Retail-Sales
 Analysis of the synthetic dataset which simulates two years of transactional data for a multinational fashion retailer.
 
-##Project Overview
+## Project Overview
 
 This project analyzes a synthetic transactional dataset simulating two years of sales activity for a multinational fashion retailer operating across multiple countries and cities. The goal is to derive data-driven insights that support strategic decisions in pricing, promotions, product assortment, and store performance.
 

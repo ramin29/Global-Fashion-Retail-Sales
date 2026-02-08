@@ -60,6 +60,12 @@ resources be reallocated?
 - Allocate resources toward top-performing cities and product categories
 - Reevaluate underperforming regions and product lines using data-backed evidence
 
+## Key findings and conclusion
+- Sales follow a strong seasonal pattern, with demand peaking in March, Fall and December and slowing during early and mid year periods.
+- Customers aged 18 24 are the most valuable segment, generating the highest revenue and showing strong preference for sportswear and structured apparel.
+- Revenue is highly concentrated in a few top performing Chinese cities, while several European markets underperform.
+- Data driven insights support smarter decisions in pricing, marketing, inventory allocation and location strategy.
+
 ## Tools & Skills Used
 - SQL (data modeling, joins, aggregations, analytical queries)
 - Dimensional modeling (star schema)
